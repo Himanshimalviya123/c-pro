@@ -23,8 +23,23 @@ int main()
 // cout<<x+y;
 int x=5,y=7;
 cout<<x*y;
+    // <------------------------switch case infinite loop-------------------->
+   # include <iostream>
+using namespace std;
+int main()
+{
+    int i;
+    i=0;
     
-    
+    cout<<"niharika";
+    cout<<endl;
+    if(i==0)
+    while(i==0)
+    {
+        cout<<"chandhan";
+        cout<<"eva";
+    }
+} 
     
     
     
